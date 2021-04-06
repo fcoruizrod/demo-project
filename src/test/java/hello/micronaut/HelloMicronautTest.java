@@ -16,6 +16,7 @@ class HelloMicronautTest {
     @Test
     void testItWorks() {
         Assertions.assertTrue(application.isRunning());
+
     }
 
 }
